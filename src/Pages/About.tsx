@@ -20,6 +20,7 @@ const LinkWrapper = styled.a`
   align-items: center;
   margin-bottom: 30px;
 `;
+
 const About = () => {
   return (
     <>
@@ -29,12 +30,12 @@ const About = () => {
         <ContentWrapper> Contact 💌 : rhdtkqkr@gmail.com </ContentWrapper>
         <ContentWrapper> Dipper MAP 🧑🏻‍💻 :</ContentWrapper>
         <LinkWrapper
-          href="https://dipper-beta.vercel.app/"
+          href="https://dipper-beta.vercel.app/mint2"
           style={{ color: "#fefcf3" }}
         >
           Dipper NFT
         </LinkWrapper>
-        <ContentWrapper>Notion 💻 : </ContentWrapper>
+        <ContentWrapper>Discord 💻 : </ContentWrapper>
         <LinkWrapper
           href="https://discord.gg/Hyt8V3Na"
           style={{ color: "#fefcf3" }}
