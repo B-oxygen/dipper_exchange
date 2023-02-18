@@ -29,6 +29,7 @@ const HowToUse = () => {
       <ExplanationWrapper>
         언제든지 연락주시면 감사하겠습니다.
       </ExplanationWrapper>
+      <ExplanationWrapper>블체스 화이팅, 아슬란 화이팅 !</ExplanationWrapper>
     </>
   );
 };

@@ -28,15 +28,18 @@ const About = () => {
       <AboutWrapper>
         <ContentWrapper> Contact 💌 : rhdtkqkr@gmail.com </ContentWrapper>
         <ContentWrapper> Dipper MAP 🧑🏻‍💻 :</ContentWrapper>
-        <LinkWrapper href="http://localhost:8545/" style={{ color: "#fefcf3" }}>
-          Dipper MapApp
+        <LinkWrapper
+          href="https://dipper-beta.vercel.app/"
+          style={{ color: "#fefcf3" }}
+        >
+          Dipper NFT
         </LinkWrapper>
         <ContentWrapper>Notion 💻 : </ContentWrapper>
         <LinkWrapper
-          href="https://www.notion.so/1daedee6bf864d0494dd1c14f3b9986e?v=fe3a8dd4779a433c9e6e725607a7f913"
+          href="https://discord.gg/Hyt8V3Na"
           style={{ color: "#fefcf3" }}
         >
-          https://www.notion.so/1daedee6bf864d0494dd1c14f3b9986e?v=fe3a8dd4779a433c9e6e725607a7f913
+          아슬란 디스코드
         </LinkWrapper>
       </AboutWrapper>
     </>
